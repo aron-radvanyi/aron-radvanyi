@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🤝
 
 <!--
 **aron-radvanyi/aron-radvanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Contact: 
+# Contact: 📫🤙
 <a href="https://www.linkedin.com/in/aronradvanyi/" > ![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href= "https://www.instagram.com/a_radvanyi_/"> ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
 <a href= "aron.radvanyi1@gmail.com"> ![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
