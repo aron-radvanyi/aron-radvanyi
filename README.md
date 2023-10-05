@@ -1,8 +1,8 @@
 ## Hi there 👋 🤝🤙
 
-For me, programming and software development is like surfing out on the ocean. Facing the unpredictable and often having to adapt. Falling from the board, facing an error in a code. But the more I try, the better I become and eventually, I figure it out. 🏄‍♂️🌊🏖️🤙
+Programming often challenges me with huge obstacles similar to when I am out surfing on the rough ocean. Often, facing complex errors or problems in the application feels like a huge wave right in front of me. However, I brace up to my waves. I try and fall as much as it is necessary and eventually, I always figure out how to ride them.  🏄‍♂️🌊🏖️🤙
 
-I am open to Junior Software Developer roles in Budapest or remote. 🌐💻
+I am open to Junior Software Developer roles in Budapest or remotely. 🌐💻
 
 <!--
 **aron-radvanyi/aron-radvanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
