@@ -1,9 +1,5 @@
 ## Hi there 👋 🤝🤙
 
-Programming often challenges me with huge obstacles similar to when I am out surfing on the rough ocean. Often, facing complex errors or problems in the application feels like a huge wave right in front of me. However, I brace up to my waves. I try and fall as much as it is necessary and eventually, I always figure out how to ride them.  🏄‍♂️🌊🏖️🤙
-
-I am open to Junior Software Developer roles in Budapest or remotely. 🌐💻
-
 <!--
 **aron-radvanyi/aron-radvanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
